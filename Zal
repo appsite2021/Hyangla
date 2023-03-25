@@ -1,8 +1,90 @@
-This is online premium shipping site. 
-
-adding 2nd line 
-
-cheers 
-
-Thank you ! 
+namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}namespace Appsite.API.ViewModel
+{
+    public class MerchantAmentyViewModel
+    {
+        public int? Id { get; set; }
+        public int MerchantId { get; set; }
+        public int AmenityId { get; set; }
+    }
+}
 
